@@ -1,6 +1,5 @@
-# Alex Mollard | C++ Vulkan Enthusiast & Graphics Tinkerer
-
 <div align="center">
+  <h1>🔧 Alex Mollard | C++ Vulkan Enthusiast & Graphics Tinkerer</h1>
 
   Diving deep into the realms of C++ and Vulkan, crafting pixels and pushing polygons to their limits!
 
