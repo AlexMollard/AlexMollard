@@ -18,24 +18,36 @@
 
 <hr>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AlexMollard&theme=dark&show_icons=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexMollard&layout=compact&langs_count=8&card_width=320&theme=dark" alt="Top Languages" />
-  </a>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AlexMollard&count_private=true&&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AlexMollard&count_private=true&&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexMollard&count_private=true&&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=AlexMollard&hide=javascript%2Chtml%2Ccss%2Cobjective-c&exclude_repo=srb2kart%2CaieBootstrap&size_weight=0&count_weight=1&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=AlexMollard&hide=javascript%2Chtml%2Ccss%2Cobjective-c&exclude_repo=srb2kart%2CaieBootstrap&size_weight=0&count_weight=1&langs_count=10&layout=compact&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexMollard&hide=javascript%2Chtml%2Ccss%2Cobjective-c&exclude_repo=srb2kart%2CaieBootstrap&size_weight=0&count_weight=1&langs_count=10&layout=compact&hide_border=true&bg_color=00000000" />
+  </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexMollard/AlexMollard/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexMollard/AlexMollard/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" width="100%" />
   </picture>
-
-<hr>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexMollard&repo=SlimeOdyssey&theme=dark)](https://github.com/AlexMollard/SlimeOdyssey)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexMollard&repo=CppOdyssey&theme=dark)](https://github.com/AlexMollard/CppOdyssey)
-
+  
 <hr>
 
   I'm always excited to collaborate on interesting projects or discuss the latest in graphics programming. Feel free to reach out!
