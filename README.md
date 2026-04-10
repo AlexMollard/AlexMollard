@@ -1,6 +1,11 @@
 <div align="center">
   <h1>🔧 Alex Mollard | C++ Vulkan Enthusiast & Graphics Tinkerer</h1>
   <p>Diving deep into the realms of C++ and Vulkan, crafting pixels and pushing polygons to their limits!</p>
+  <p>
+    <strong>Looking for full project write-ups, screenshots, and photo galleries?</strong><br/>
+    👉 <a href="https://www.alexmollard.dev"><strong>Visit my portfolio: alexmollard.dev</strong></a>
+  </p>
+  <br>
   
   [![GitHub followers](https://img.shields.io/github/followers/AlexMollard?style=social)](https://github.com/AlexMollard)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-mollard/)
@@ -45,6 +50,12 @@
   </picture>
   
 <hr>
+  <h3>Start here for the full experience</h3>
+  <p>
+    <a href="https://www.alexmollard.dev"><strong>alexmollard.dev</strong></a><br/>
+    Detailed project pages, development breakdowns, and photo galleries.
+  </p>
+  
   I'm always excited to collaborate on interesting projects or discuss the latest in graphics programming. Feel free to reach out!
   
   💬 "Code is like humour. When you have to explain it, it's bad." - Cory House
