@@ -50,12 +50,6 @@
   </picture>
   
 <hr>
-  <h3>Start here for the full experience</h3>
-  <p>
-    <a href="https://www.alexmollard.dev"><strong>alexmollard.dev</strong></a><br/>
-    Detailed project pages, development breakdowns, and photo galleries.
-  </p>
-  
   I'm always excited to collaborate on interesting projects or discuss the latest in graphics programming. Feel free to reach out!
   
   💬 "Code is like humour. When you have to explain it, it's bad." - Cory House
