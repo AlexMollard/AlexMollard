@@ -13,7 +13,7 @@ netcode, and the tools the rest of the team works in.
 
 I've been writing C++ since 2019. I studied at AIE Melbourne for two years, but most of what I know came from side projects beyond the curriculum and a lot of trial and error. Small simulations came first (Game of Life, pathfinding, cellular-automata fluids), then my own engines, one after another:
 
-[BigBrainEngine](https://github.com/AlexMollard/BigBrainEngine) (2019) → [SlimeCore2D](https://github.com/AlexMollard/SlimeCore2D) (2020) → [Vulkan-Slime](https://github.com/AlexMollard/Vulkan-Slime) (2021) → [Odyssean Engine](https://github.com/AlexMollard/Odyssean-Engine) (2022) → [SlimeProject](https://github.com/Slime-Dev/SlimeProject) (2024) → [AetherCore](https://github.com/AlexMollard/AetherCore) (2026)
+[BigBrainEngine](https://github.com/AlexMollard/BigBrainEngine)&nbsp;(2019)&nbsp;→ [SlimeCore2D](https://github.com/AlexMollard/SlimeCore2D)&nbsp;→ [Vulkan-Slime](https://github.com/AlexMollard/Vulkan-Slime)&nbsp;→ [Odyssean&nbsp;Engine](https://github.com/AlexMollard/Odyssean-Engine)&nbsp;→ [SlimeProject](https://github.com/Slime-Dev/SlimeProject)&nbsp;→ [AetherCore](https://github.com/AlexMollard/AetherCore)&nbsp;(2026)
 
 The fastest way to learn an engine is to write one.
 
