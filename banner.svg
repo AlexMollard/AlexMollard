@@ -1,0 +1,33 @@
+<svg width="850" height="190" viewBox="0 0 850 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alex Mollard - Senior Generalist Programmer">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#221637"/>
+      <stop offset="0.55" stop-color="#1a1030"/>
+      <stop offset="1" stop-color="#2b1440"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF8C1A"/>
+      <stop offset="1" stop-color="#FFB25C"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="847" height="187" rx="14" fill="url(#panel)" stroke="#3d2a5c" stroke-width="1.5"/>
+
+  <!-- corner accents -->
+  <path d="M 24 24 L 24 12 M 24 12 L 12 12 M 826 12 L 838 12 M 838 12 L 838 24" stroke="#FF8C1A" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.85"/>
+  <path d="M 24 166 L 24 178 M 24 178 L 36 178 M 814 178 L 826 178 M 826 178 L 826 166" stroke="#6b5a92" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.7"/>
+
+  <!-- orbit dots: violet field, orange planet -->
+  <circle cx="120" cy="52" r="2.5" fill="#8a76b8" opacity="0.75"/>
+  <circle cx="705" cy="140" r="2.5" fill="#8a76b8" opacity="0.75"/>
+  <circle cx="742" cy="52" r="4" fill="#FF8C1A"/>
+  <circle cx="742" cy="52" r="8" fill="none" stroke="#FF8C1A" stroke-width="1" opacity="0.4"/>
+  <circle cx="96" cy="140" r="3" fill="#c9b8ee" opacity="0.8"/>
+
+  <text x="60" y="92" font-family="Verdana, DejaVu Sans, sans-serif" font-size="46" font-weight="bold" fill="#F4E9DE" letter-spacing="2">ALEX MOLLARD</text>
+
+  <rect x="62" y="110" width="42" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="60" y="140" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#FF8C1A" letter-spacing="1.5">SENIOR GENERALIST PROGRAMMER</text>
+  <text x="60" y="162" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="12.5" fill="#B9A8CE" letter-spacing="1">BIG ANT STUDIOS - MELBOURNE - 8 SHIPPED TITLES - C++ / VULKAN</text>
+</svg>
