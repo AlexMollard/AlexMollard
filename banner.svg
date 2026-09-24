@@ -1,41 +1,42 @@
 <svg width="850" height="170" viewBox="0 0 850 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alex Mollard, Senior Generalist Programmer">
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#16191b"/>
-      <stop offset="1" stop-color="#0b0d0e"/>
+      <stop offset="0" stop-color="#122c33"/>
+      <stop offset="0.55" stop-color="#0e242b"/>
+      <stop offset="1" stop-color="#0a1d23"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#bd5749"/>
-      <stop offset="1" stop-color="#ff654f"/>
+      <stop offset="0" stop-color="#57d9b5"/>
+      <stop offset="1" stop-color="#9be8d2"/>
     </linearGradient>
   </defs>
 
-  <rect x="1" y="1" width="848" height="168" rx="6" fill="url(#panel)" stroke="#30383d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="848" height="168" rx="6" fill="url(#panel)" stroke="#1f4a52" stroke-width="1.5"/>
 
-  <!-- sun and treeline, echoing the avatar -->
-  <circle cx="700" cy="62" r="20" fill="#ff654f" opacity="0.5"/>
-  <g fill="#9bb4c1" opacity="0.09">
+  <!-- moon and treeline, echoing the avatar -->
+  <circle cx="700" cy="62" r="20" fill="#9be8d2" opacity="0.35"/>
+  <g fill="#57d9b5" opacity="0.12">
     <path d="M 526 150 L 544 116 L 562 150 Z"/>
     <path d="M 598 150 L 620 104 L 642 150 Z"/>
     <path d="M 680 150 L 698 118 L 716 150 Z"/>
     <path d="M 744 150 L 766 100 L 788 150 Z"/>
   </g>
-  <g fill="#9bb4c1" opacity="0.18">
+  <g fill="#3fae90" opacity="0.3">
     <path d="M 552 150 L 572 112 L 592 150 Z"/>
     <path d="M 578 150 L 596 124 L 614 150 Z"/>
     <path d="M 640 150 L 656 126 L 672 150 Z"/>
     <path d="M 712 150 L 732 110 L 752 150 Z"/>
     <path d="M 770 150 L 786 126 L 802 150 Z"/>
   </g>
-  <path d="M 510 150 H 810" stroke="#30383d" stroke-width="1.5"/>
+  <path d="M 510 150 H 810" stroke="#1f4a52" stroke-width="1.5"/>
 
   <!-- corner accents -->
-  <path d="M 16 32 V 16 H 32 M 818 16 H 834 V 32" stroke="#ff654f" stroke-width="2" stroke-linecap="square" fill="none" opacity="0.85"/>
-  <path d="M 16 138 V 154 H 32 M 818 154 H 834 V 138" stroke="#30383d" stroke-width="2" stroke-linecap="square" fill="none"/>
+  <path d="M 16 32 V 16 H 32 M 818 16 H 834 V 32" stroke="#57d9b5" stroke-width="2" stroke-linecap="square" fill="none" opacity="0.85"/>
+  <path d="M 16 138 V 154 H 32 M 818 154 H 834 V 138" stroke="#3f7a78" stroke-width="2" stroke-linecap="square" fill="none"/>
 
-  <text x="60" y="86" font-family="'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#e8e9e4" letter-spacing="2">ALEX MOLLARD</text>
+  <text x="60" y="86" font-family="'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#eaf7f2" letter-spacing="2">ALEX MOLLARD</text>
 
   <rect x="62" y="104" width="44" height="4" rx="1" fill="url(#accent)"/>
 
-  <text x="60" y="136" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#ff654f" letter-spacing="2">SENIOR GENERALIST PROGRAMMER</text>
+  <text x="60" y="136" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#7fe0c3" letter-spacing="2">SENIOR GENERALIST PROGRAMMER</text>
 </svg>

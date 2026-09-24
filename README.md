@@ -9,27 +9,20 @@ netcode, and the tools the rest of the team works in.
 
 </div>
 
-### Shipped at Big Ant Studios
+### How I got here
 
-Eight PC, PlayStation and Xbox titles since 2022, working across UI, gameplay, networking, platform certification and internal tooling.
+I've been writing C++ since 2019. I studied at AIE Melbourne for two years, but most of what I know came from side projects beyond the curriculum and a lot of trial and error. Small simulations came first (Game of Life, pathfinding, cellular-automata fluids), then my own engines, one after another:
 
-| Year | Titles |
-| :--- | :--- |
-| 2025 | Cricket 26 · Rugby League 26 · AFL 26 · Rugby 25 |
-| 2024 | TIEBREAK |
-| 2023 | Cricket 24 · AFL 23 |
-| 2022 | Cricket 22 |
+[BigBrainEngine](https://github.com/AlexMollard/BigBrainEngine) (2019) → [SlimeCore2D](https://github.com/AlexMollard/SlimeCore2D) (2020) → [Vulkan-Slime](https://github.com/AlexMollard/Vulkan-Slime) (2021) → [Odyssean Engine](https://github.com/AlexMollard/Odyssean-Engine) (2022) → [SlimeProject](https://github.com/Slime-Dev/SlimeProject) (2024) → [AetherCore](https://github.com/AlexMollard/AetherCore) (2026)
 
-### Outside work
+The fastest way to learn an engine is to write one.
 
-I build my own C++/Vulkan engines, because the fastest way to learn an engine is to write one. The current one is [AetherCore](https://github.com/AlexMollard/AetherCore): a Vulkan engine with a GPU-driven renderer, an editor-first workflow and hot-reloadable C# gameplay.
+### What I'm doing now
 
-### Stack
-
-- **Languages:** C++, C#, Rust, Python, GLSL/HLSL
-- **Graphics:** Vulkan, OpenGL, render graphs, bindless rendering, PBR
-- **Engines and systems:** Unreal Engine 5, Unity, ENet, Jolt, ECS
-- **Platforms and tooling:** PC, PlayStation, Xbox, TRC certification, PlayFab, Steamworks, Tracy, CMake
+- **At Big Ant Studios:** eight shipped PC, PlayStation and Xbox titles since 2022 (the full list is on [my site](https://www.alexmollard.dev)). I build tools that start with the programmers and QA who'll live in them, and take the tickets nobody else can finish when a submission date is close.
+- **AetherCore:** a Vulkan engine with a bindless renderer, an editor, and hot-reloadable C# gameplay. It started hand-written. As it grew, I moved to directing AI agents. I set the architecture and review every change, and nothing merges on vibes: over 1,200 tests have to pass first.
+- **On the side:** a [PS2 patch for Crash Twinsanity](https://github.com/AlexMollard/Crash-Twinsanity-Improved), a Rust [Grand Exchange analyzer](https://github.com/AlexMollard/rs3_analyzer) for RuneScape 3, and [Ironvellum](https://github.com/AlexMollard/Ironvellum), a training tracker with a 106-technique calisthenics skill tree.
+- **Next:** decompiling more of Crash Twinsanity and getting it running in AetherCore.
 
 <br>
 
