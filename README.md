@@ -1,6 +1,6 @@
 <div align="center">
 
-![Alex Mollard, Senior Generalist Programmer](banner.svg)
+# Alex Mollard
 
 I build the systems a game is made of: Vulkan rendering, engine architecture,<br>
 netcode, and the tools the rest of the team works in.
