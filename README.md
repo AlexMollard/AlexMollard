@@ -19,10 +19,9 @@ The fastest way to learn an engine is to write one.
 
 ### What I'm doing now
 
-- **At Big Ant Studios:** eight shipped PC, PlayStation and Xbox titles since 2022 (the full list is on [my site](https://www.alexmollard.dev)). I build tools that start with the programmers and QA who'll live in them, and take the tickets nobody else can finish when a submission date is close.
-- **AetherCore:** a Vulkan engine with a bindless renderer, an editor, and hot-reloadable C# gameplay. It started hand-written. As it grew, I moved to directing AI agents. I set the architecture and review every change, and nothing merges on vibes: over 1,200 tests have to pass first.
-- **On the side:** a [PS2 patch for Crash Twinsanity](https://github.com/AlexMollard/Crash-Twinsanity-Improved), a Rust [Grand Exchange analyzer](https://github.com/AlexMollard/rs3_analyzer) for RuneScape 3, and [Ironvellum](https://github.com/AlexMollard/Ironvellum), a training tracker with a 106-technique calisthenics skill tree.
-- **Next:** decompiling more of Crash Twinsanity and getting it running in AetherCore.
+- **At Big Ant Studios:** eight shipped PC, PlayStation and Xbox titles since 2022 (the full list is on [my site](https://www.alexmollard.dev)). I build tools around the programmers and QA who'll live in them, and work through the difficult bugs when a submission date is close.
+- **[AetherCore](https://github.com/AlexMollard/AetherCore):** a Vulkan engine with a bindless renderer, an editor, and hot-reloadable C# gameplay. It started hand-written. As it grew, I moved to directing AI agents. I set the architecture and review every change, with over 1,200 tests required to pass before merging.
+- **[Ironvellum](https://github.com/AlexMollard/Ironvellum):** an open-source Android strength-training app built with Kotlin and Jetpack Compose, covering calisthenics through barbell lifting. It combines workout planning and logging with skill progression, bodyweight-adjusted scoring, and per-muscle fatigue estimates. Training works entirely offline; optional sync adds a web dashboard and social features. Available on [F-Droid](https://f-droid.org/packages/com.ironvellum.app/), with no account required to train.
 
 <br>
 
